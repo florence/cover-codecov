@@ -7,7 +7,7 @@ Adds [Codecov](https://codecov.io/) support to [Cover](https://github.com/floren
 
 This repository was moved back here from https://github.com/codecov/codecov-racket, as Codecov revoked our access to the repository and does not seem to be responding to pull request.
 
-_Note_:  The currently supported methods of posting data to [Codecov](https://codecov.io/) are [Travis CI](https://travis-ci.org/) and [Gitlab CI](https://about.gitlab.com/gitlab-ci/).
+_Note_:  The methods of posting data to [Codecov](https://codecov.io/) are includein this repository are [Travis CI](https://travis-ci.org/) and [Gitlab CI](https://about.gitlab.com/gitlab-ci/). Use the `cover-build-services` info.rkt key to add more.
 
 ## Use with Travis CI
 First enable your repository on Travis and Codecov.
