@@ -1,9 +1,11 @@
 # Cover Codecov
 
-[![Build Status](https://travis-ci.org/codecov/codecov-racket.svg?branch=master)](https://travis-ci.org/codecov/codecov-racket)
-[![codecov.io](https://codecov.io/github/codecov/codecov-racket/coverage.svg?branch=master)](https://codecov.io/github/codecov/codecov-racket?branch=master)
+[![Build Status](https://travis-ci.org/florence/cover-codecov.svg?branch=master)](https://travis-ci.org/florence/cover-codecov)
+[![codecov.io](https://codecov.io/github/florence/cover-codecov/coverage.svg?branch=master)](https://codecov.io/github/florence/cover-codecov?branch=master)
 
 Adds [Codecov](https://codecov.io/) support to [Cover](https://github.com/florence/cover).
+
+This repository was moved back here from https://github.com/codecov/codecov-racket, as Codecov revoked our access to the repository and does not seem to be responding to pull request.
 
 _Note_:  The currently supported methods of posting data to [Codecov](https://codecov.io/) are [Travis CI](https://travis-ci.org/) and [Gitlab CI](https://about.gitlab.com/gitlab-ci/).
 
