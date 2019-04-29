@@ -1,6 +1,6 @@
 # Cover Codecov
 
-[![Build Status](https://travis-ci.org/florence/cover-codecov.svg?branch=master)](https://travis-ci.org/florence/cover-codecov)
+[![Build Status](https://travis-ci.com/florence/cover-codecov.svg?branch=master)](https://travis-ci.com/florence/cover-codecov.svg?branch=master)
 [![codecov.io](https://codecov.io/github/florence/cover-codecov/coverage.svg?branch=master)](https://codecov.io/github/florence/cover-codecov?branch=master)
 
 Adds [Codecov](https://codecov.io/) support to [Cover](https://github.com/florence/cover).
